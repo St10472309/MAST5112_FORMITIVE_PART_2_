@@ -1,5 +1,6 @@
 # TITLE:
-MAST5112_FORMITIVE_PART_2_
+MAST5112_FORMITIVE_PART_3_
+Time_to_eat
 ## Student Name:
  Joshua Zulu
 # Student Number: 

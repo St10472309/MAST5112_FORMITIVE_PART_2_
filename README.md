@@ -39,8 +39,8 @@ Add Menu Screen
 View Menu Screen
  
 # 5.LINKS
-GitHub link: https://github.com/St10472309/MAST5112_FORMITIVE_PART_2_
-YouTube:
+# GitHub link: https://github.com/St10472309/MAST5112_FORMITIVE_PART_2_
+# YouTube:https://youtube.com/shorts/SeJ8YY48Th8
 
 # 6.Change Log - Part 3 Updates
 
